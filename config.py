@@ -1,2 +1,2 @@
 robot = "final-bot"
-speed = 1.0
+speed = 2.0
