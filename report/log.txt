@@ -1,0 +1,16 @@
+*   30367aa Merge pull request #1 from ujheo/feature/sensor
+|\  
+| * d319dc7 센서 설정 추가
+|/  
+*   30c2731 속도 1.5로 충돌 해결
+|\  
+| * 0b6879f 속도 2.0으로 변경
+* | 18082ee 속도 1.5로 변경
+|/  
+*   4a3236a Merge branch 'main' of https://github.com/ujheo/final-day15
+|\  
+| * b86bcbb README 설명 추가
+* | e248475 팀원 목록 추가
+|/  
+* 8644f3c 설정 파일 추가
+* 7d750c8 Initial commit
